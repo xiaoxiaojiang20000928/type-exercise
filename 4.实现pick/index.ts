@@ -16,4 +16,9 @@ const todo: TodoPreview = {
     completed: false,
 }
 
+type Func = () => Promise<string>
+
+type get<T> = T extends () => Promise<infer U> ? U : never
+type x = get<Func> // string
+
 export {};
