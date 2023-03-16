@@ -6,16 +6,11 @@ typescript类型体操练习题
 <br>
 <br>
 
-**因某些概念目前未完成的题**
-189、898
+**目前未理解的题**
+189
 
-<br>
-<br>
+**关于infer的协变 逆变部分待学习**
 
-**联系方式**
-qq：1104309646
-希望有志同道合的朋友一起讨论一起进步
-
-# 挑战出处。
+# 参考项目：
 [type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
 
