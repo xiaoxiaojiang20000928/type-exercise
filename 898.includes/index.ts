@@ -1,6 +1,4 @@
-// infer部分 暂时不懂
-
-type Includes<T extends unknown[],U>
+type Includes<T extends readonly any[],U> = U extends T[number]?true:false
 
 type isPillarMen = Includes<['Kars', 'Esidisi', 'Wamuu', 'Santana'], 'Dio'> // expected to be `false`
 
