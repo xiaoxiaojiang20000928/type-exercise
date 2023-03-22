@@ -9,8 +9,8 @@ typescript类型体操练习题
 **目前未理解的题**
 189
 
-**关于infer的协变 逆变部分待学习**
+<br>
+有些感觉毫无价值的题不做
 
 # 参考项目：
 [type-challenges](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
-
